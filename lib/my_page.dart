@@ -5,10 +5,18 @@ class MyPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    //  ↓ const つけわすれ
+    return Scaffold(
       body: Center(
         child: Text('じょじょっじょジェネレータ'),
       ),
     );
+  }
+}
+
+class  Bad_class {
+  void doSomething(int x,
+String y){
+     return;
   }
 }
