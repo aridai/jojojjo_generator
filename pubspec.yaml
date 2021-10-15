@@ -1,0 +1,26 @@
+name: jojojjo_generator
+description: じょじょっじょジェネレータ
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  collection: ^1.15.0
+  rxdart: ^0.27.2
+  freezed_annotation: ^0.15.0
+
+dev_dependencies:
+  test: ^1.18.2
+  build_runner: ^2.1.4
+  freezed: ^0.15.0+1
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: KosugiMaru
+      fonts:
+        - asset: assets/KosugiMaru-Regular.ttf
