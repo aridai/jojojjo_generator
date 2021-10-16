@@ -1,8 +1,13 @@
 # じょじょっじょジェネレータ
 
+https://github.com/aridai/jojojjo_generator  
+https://aridai.github.io/jojojjo_generator/  
+
 [![CI](https://github.com/aridai/jojojjo_generator/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/aridai/jojojjo_generator/actions/workflows/CI.yml)
 ![Dart](https://img.shields.io/static/v1?label=language&message=Dart&color=00B4AB)
 ![Flutter](https://img.shields.io/static/v1?label=framework&message=Flutter&color=46CAF9)
+
+![](image.jpg)
 
 ## 使用ライブラリ
 
