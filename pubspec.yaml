@@ -20,6 +20,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/balloon.png
+    - assets/marisa.png
   fonts:
     - family: KosugiMaru
       fonts:
