@@ -28,3 +28,4 @@ https://aridai.github.io/jojojjo_generator/
   * `flutter analyze`
 
 てすと
+2
