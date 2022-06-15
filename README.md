@@ -26,3 +26,5 @@ https://aridai.github.io/jojojjo_generator/
   * `flutter format --set-exit-if-changed ./`
 * 静的解析
   * `flutter analyze`
+
+てすと
